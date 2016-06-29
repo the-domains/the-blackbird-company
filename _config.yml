@@ -1,4 +1,8 @@
-layout_spectrum: 0.3796430577058345
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.2138323080725968
+  saturation: 0.3518519
   brandStrength: 0.807049
-  lightness: 0.8060126032214612
+  lightness: 0.7341697
   brandColors:
     - '#C8B998'
     - '#E3E1D4'
     - '#8F7F65'
     - '#1D1210'
     - '#5D4E39'
-  rhythmicContrast: 0.3833859991282225
+  rhythmicContrast: 0.7258064
 typography_spectrum: 0.3142090190667659
+layout_spectrum: 0.3796430577058345
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 name: The Blackbird Company
