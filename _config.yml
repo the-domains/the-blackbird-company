@@ -1,8 +1,5 @@
 favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.7580644
 opengraph:
   image: null
   type: null
@@ -22,19 +19,22 @@ collections:
 purpose: []
 color:
   saturation: 0
-  brandStrength: 0.807049
+  brandStrength: 1
   lightness: 1
   brandColors:
-    - '#C8B998'
-    - '#E3E1D4'
-    - '#8F7F65'
-    - '#1D1210'
-    - '#5D4E39'
+    - '#565855'
+    - '#BBC1BD'
+    - '#D7E1E2'
+    - '#FFFFFD'
+    - '#888E8C'
   rhythmicContrast: 0.9050179
 typography_spectrum: 0.2120669
-layout_spectrum: 0.7580644
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: The Blackbird Company
