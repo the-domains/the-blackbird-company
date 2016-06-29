@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Blackbird Company]]></title>
         <description><![CDATA[The Blackbird Company]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-blackbird-company/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 13:14:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jun 2016 13:50:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-blackbird-company/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Up in the air. ]]></title>
+            <description><![CDATA[<article><h1>Up in the air. </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97fcdf50-9629-4a94-974e-f5cc4808893c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/97fcdf50-9629-4a94-974e-f5cc4808893c.jpg</link>
+            <guid isPermaLink="false">bd78f1b0-85c1-4ed7-87bb-a6bc0388db49</guid>
+            <pubDate>Wed, 29 Jun 2016 13:49:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TBBC]]></title>
             <description><![CDATA[<article><h1>TBBC</h1><p>The Blackbird Company.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2e7b074-7ddf-425d-ac30-efa592f63959.jpg"></article>]]></description>
