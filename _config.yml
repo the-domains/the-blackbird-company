@@ -1,4 +1,8 @@
-name: The Blackbird Company
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -15,26 +19,22 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+purpose: []
 color:
-  saturation: 0.3518519
+  saturation: 0
   brandStrength: 0.807049
-  rhythmicContrast: 0.7258064
+  lightness: 1
   brandColors:
     - '#C8B998'
     - '#E3E1D4'
     - '#8F7F65'
     - '#1D1210'
     - '#5D4E39'
-  lightness: 0.7341697
-purpose: []
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
+  rhythmicContrast: 0.9050179
 typography_spectrum: 0
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
+name: The Blackbird Company
